@@ -1,9 +1,8 @@
 var firebaseConfig = {
-   apiKey: "AIzaSyDLQqNK8B38FxhKrNhWc8TNah9qbZmndMg",
-   authDomain: "autentifica43jjsb.firebaseapp.com",
-   projectId: "autentifica43jjsb",
-   storageBucket: "autentifica43jjsb.appspot.com",
-   messagingSenderId: "345570041007",
-   appId: "1:345570041007:web:7d414e945177cb1c23485a",
-   measurementId: "G-6JWSKV2KR6"
+   apiKey: "AIzaSyAY9CYAe06C1AhAXJdPHlncoYWrsXA3evk",
+    authDomain: "autentifica43jjsb-5ff41.firebaseapp.com",
+    projectId: "autentifica43jjsb-5ff41",
+    storageBucket: "autentifica43jjsb-5ff41.appspot.com",
+    messagingSenderId: "149647562040",
+    appId: "1:149647562040:web:b37556761a80c56f3a9dcd"
  };
